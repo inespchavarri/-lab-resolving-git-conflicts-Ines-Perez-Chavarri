@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Probando git!
+=======
+Probando git! :)
+1, 2, 3, probando...
+>>>>>>> branch2
 1, 2, 3, probando...
